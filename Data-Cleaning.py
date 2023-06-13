@@ -1,5 +1,5 @@
 import os 
-FOLDER_PATH = "TestTxts/"
+FOLDER_PATH = "Combined-Texts/"
 SAVE_PATH = "Articles/"
 
 # Read combined texts into dictionary
